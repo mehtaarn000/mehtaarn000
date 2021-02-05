@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**mehtaarn000/mehtaarn000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [PriceHero](https://github.com/mehtaarn000/PriceHero), and a secret website!
@@ -13,4 +10,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [arnavm834@gmail.com](arnavm834@gmail.com)
 - 😄 Pronouns: He, him
 - ⚡ Fun fact: I'm trash at Cuphead
--->
