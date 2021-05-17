@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<div>
+<img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=mehtaarn000&count_private=true&include_all_commits=true&theme=onedark" alt="willdoescode" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehtaarn000&layout=compact&theme=onedark&langs_count=15" />
+</div>
+
+
 - 🔭 I’m currently working on [PriceHero](https://github.com/mehtaarn000/PriceHero), and a secret website!
 - 🌱 I’m currently learning Typescript
 - 👯 I’m looking to collaborate on any of my projects!
