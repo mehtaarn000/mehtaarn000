@@ -7,8 +7,6 @@
 
 
 - 🔭 I’m currently working on [PriceHero](https://github.com/mehtaarn000/PriceHero), and a secret website!
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning Data Science and Engineering
 - 👯 I’m looking to collaborate on any of my projects!
-- 🤔 I’m looking for help with nothing yet!
 - 💬 Ask me about Git, Python, NodeJS, ExpressJS, MongoDB, macOS, Shell Script, Vlang, Golang, React, CouchDB, TypeScript, NextJS, Jupyter Notebooks, and Juypter Lab.
-- 📫 How to reach me: [arnavm834@gmail.com](arnavm834@gmail.com)
